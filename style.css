@@ -1,0 +1,1089 @@
+a
+{
+  text-decoration:none;
+}
+body
+{   
+    
+    width:500px;
+    height:700px;
+    max-width:100%;
+    max-height:100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color:#f0f2f5
+}
+img
+{
+  border-top-left-radius:5px ;
+  border-top-right-radius:5px;  
+}
+.ajouter
+{
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius: 5px;
+  width:162px;
+  height: 30px ;
+  text-align:center;
+  position:relative;
+  top:62px;
+  left:-1px;
+  font-size: 16px;
+  background-color:white;
+}
+.add
+{
+  position:relative;
+  top: 30px;
+  left:27px;
+}
+.nambi 
+{
+ width:160px;   
+ position:relative;
+ top:30px;
+ left:150px; 
+ border-radius:7px black ; 
+  
+ position:relative;
+ 
+}
+
+.nam
+{
+
+ text-align:center;   
+ width:150px;
+ height:20px;   
+ background-color:white;   
+ border-bottom-right-radius:10px ;
+ border-bottom-left-radius:10px  ;
+ position:relative;
+ top:-5px;
+ left:8.5px;
+ padding-left:13px;
+ padding-right:-8px;
+ padding-top:6.5px;
+ padding-bottom:6.5px;
+ margin-left:-9px;
+ font-size:18px;
+}
+p
+{
+  color:gray; 
+  position:relative;
+  top:35px;
+  left:150px; 
+  font-size:16px;
+
+}
+h4
+{   
+ 
+    position:relative;
+    top:70px;
+    left:150px; 
+    font-size:28px;
+    font-weight:500;
+}
+h3
+{
+  position:relative;
+  left:150px;
+  top:100px;
+  font-size:28px;
+  color:blue;
+}
+
+.cap{
+  color: black;
+  transition: .3s ease;
+}
+
+.cap:hover{
+  color: rgba(85, 36, 199);
+}
+
+.rayan
+{
+  width:162px;
+  height:185px;
+  padding-bottom:7px;
+  position:relative;
+  left:325px;
+  top:-169px;
+  ;
+  
+  border-radius:10px;
+}
+.ray
+{
+  text-align:center;
+  width:140px;
+  height:26px;
+  border:1px black;
+  position:relative;
+  left:-2.5px;
+  top:-2.5px;
+  font-size:18px;
+  background-color:white;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius: 10px;
+  padding-left:15px;
+  padding-right:10px;
+  padding-top:5px;
+}
+.fifa
+{
+ position:relative;
+ left:500px;
+ top:-362px;
+ 
+ padding-right:50px;
+}
+.fi
+{
+  width:161px;
+  height:28px;
+  position:relative;
+  left:1px;
+  top:-2.5px;
+  font-size:18px;
+  background-color:white ;
+  border:1px black;
+  border-radius:5px;
+  text-align:center;
+  padding-top:3px;
+}
+.rija
+{
+  position:relative;
+  left:150px;
+  top:-325px;
+  box-shadow:5px black;
+
+}
+.ri
+{
+  width:162px;
+  height:26px;
+  position:relative;
+  left:0.5px;
+  top:-2px;
+  font-size:18px;
+  background-color:white;
+  text-align:center;
+  padding-top:2.5px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+}
+.plus
+{
+  position:relative;
+  left:325px;
+  top:-520px;
+  width:161px;
+  
+  height:161px;
+  border-radius:2.5px;
+  border:1px black solid;
+}
+/*.semi
+{
+  position :relative;
+  top:-10px;
+  border:1px black solid;
+  padding-bottom:-100px;
+  padding-top:15px;
+}
+*/
+.Formulaire
+{
+  padding:14px 16px;
+  box-shadow: 10px black solid;
+  border-radius:10px;
+  border: 1px gray   solid; 
+  width:360px;
+  height:310px;
+  position:relative;
+  left:730px;
+  top:-960px;
+  background-color:beige;
+}
+.mdp
+{
+  padding-left:7px ;
+  padding-right:2px; 
+  width:340px;
+  height:45px;
+  position:relative;
+  top:7px;
+  border-radius:10px white;
+  font-size:16px; 
+  
+}
+.adresse
+{ 
+  padding-left:7px ;
+  padding-right:2px; 
+  width:340px;
+  height:45px;
+  position:relative;
+  border-radius:10px white;
+  font-size:16px;
+  
+}
+.Se
+{
+  padding-left:7px ;
+  padding-right:2px; 
+  width:352px;
+  height:45px;
+  position:relative;
+  top:22px;
+  background-color:#1877F2;
+  font-size:21px;
+  color:beige;
+  border-radius:5px;
+  border:none;
+
+}
+.mot
+{ 
+  color:#1877F2;
+  position:relative;
+  top:25px;
+  left:110px;
+  font-size:16px;
+
+}
+hr
+{
+  position:relative;
+  top:35px;
+}
+.creer
+{
+  color:beige;
+  width:200px;
+  height:45px;
+  position:relative;
+  top:50px;
+  left:80px;
+  background-color:#42B72A;
+  border-radius:5px;
+  border:none;
+  font-size:15px;
+}
+.page
+{
+ position:relative;
+ top:-960px;
+ left:750px;
+ font-size:16px;
+}
+.Principal
+{
+  border:1px black solid;
+  width:600px;
+  height:600px;
+}
+.sec
+{
+ color:beige; 
+}
+.mo
+{
+  color:blue;
+  transition:.3s;
+  text-decoration:underline;
+}
+/* Authentification*/
+header
+{
+  width:1255px;
+  height:50px;
+  background-color:white;
+  border:1px black solid;
+  border-left:none;
+  border-right:none;
+  border-top:none;
+  position:relative;
+  top:-27px;
+  left:-5px;
+  right:-5px;
+  background-attachment: fixed;
+  
+}
+.Fb
+{
+  color:blue;
+  position:relative;
+  left:20px;
+  top:17px;
+  font-size:26px;
+}
+.authent
+{
+  position:relative;
+  left:450px;
+  top:-50px;
+
+}
+
+.adres
+{
+  padding:8px 12px 10px;
+  font-size:15px;
+  width:150px;
+  height:18px;
+  border-radius:8px gray; 
+  position:relative;
+  left:40px;
+  font-weight:200;
+
+}
+.modp
+{
+  font-size:15px;
+  width:150px;
+  height:18px; 
+  border-radius:8px gray;
+  
+  font-weight:200;
+  padding:8px 12px 10px;
+  position:relative;
+  left:39px;
+}
+.net
+{
+  color:#f0f2f5;
+  background-color:#1877F2;
+  width:150px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+  position:relative;
+  left:40px;
+}
+.lot
+{
+  color:#1877F2;
+  position:relative;
+  left:570px;
+  top:-45px;
+  font-size:16px;
+}
+.n:hover
+{
+  color:violet;
+  text-decoration: underline;
+}
+.formulaire b
+{
+  background-color:#f0f2f5;
+  padding-left:5px;
+  padding-right:5px;
+  
+  
+}
+.auth
+{
+  background-color:white;
+  width:500px;
+  height:276px;
+  border:1px beige solid;
+  position:relative;
+  left:400px;
+  top:65px;
+  border-radius:10px;
+}
+.compte
+{
+ color:black; 
+ position:relative;
+ left:20px;
+ top:-5px;
+ font-size:22px; 
+ font-weight:800
+}
+.neo
+{
+  position:relative;
+  top:-115px;
+  color:gray;
+}
+.veuillez
+{
+  color:black;
+  position:relative;
+  left:17px;
+  top:10px;
+  font-size:17px;
+  font-weight:200;
+}
+.nene
+{
+  position:relative;
+  left:18px;
+  top:10px;
+  width:425px;
+  height:40px;
+  font-size:15px;
+  border-radius:5px gray;
+ 
+  padding-left:10px;
+  padding-right:5px; 
+}
+.neoo
+{
+  position:relative;
+  top:17px;
+}
+.annuler
+{
+  color:#f0f2f5;
+ background-color: gray;
+ position:relative;
+ left:240px ;
+ top:25px;
+ border-radius:5px;
+ border:none;
+ width:120px;
+ height:34px;
+ font-size:16px; 
+
+}
+.rechercher
+{
+  position:relative;
+  left:240px;
+  top:25px;
+  background-color: #1877F2;
+  width:120px;
+  height:34px;
+  border-radius:5px;
+  border:none;
+  color:#f0f2f5;
+  font-size:16px;
+}
+/* page */
+
+.fanom
+{
+  background-color: white;
+  height:70px;
+
+}
+.rech
+{
+  position:relative;
+  top:10px;
+  left:70px;
+  width:250px;
+  height:30px;
+  border-radius:20px;
+  border:none;
+  background-color:rgb(235, 224, 224);
+  padding-left:18px;
+  padding-right:16px;
+}
+.rech :hover
+{
+  color:#1877F2;
+}
+.gauche
+{
+   
+  overflow-x:hidden;
+  overflow-y:scroll;
+  width:250px;
+  height:700px;
+  background-color:beige;
+  position:relative;
+  top:-25px;
+  left:-5px;
+  background-attachment: local;
+
+}
+.tsio
+{
+  position:relative;
+  left:60px;
+  top:12px;
+  font-size:18px;
+  color:black;
+}
+.nob
+{
+  position:relative;
+  top:-35px;
+  left:5.5px;
+  border-radius:30px;
+
+}
+.amis
+{
+  position:relative;
+  left:60px;
+  top:-35px;
+  font-size:18px;
+  color:black;
+}
+.ben
+{
+  position:relative;
+  left:5.5px;
+  top:-85px;
+}
+.Enre
+{
+  position:relative;
+  left:60px;
+  top:-75px;
+  font-size:18px;
+  color:black;
+}
+.gpe
+{
+  position:relative;
+  left:60px;
+  top:-120px;
+  font-size:18px;
+  color:black;
+}
+.beeen
+{
+  position:relative;
+  left:5.5px;
+  top:-175px;
+}
+.mark
+{
+  position:relative;
+  left:60px;
+  top:-165px;
+  font-size:18px;
+  color:black;
+}
+.been
+{
+  position:relative;
+  left:5.5px;
+  top:-215px;
+}
+.watch
+{
+  position:relative;
+  left:60px;
+  top:-205px;
+  font-size:18px;
+  color:black;
+}
+.boyn
+{
+  position:relative;
+  top:-255px;
+}
+.ry
+{
+  position:relative;
+  top:-235px;
+}
+.Vos
+{
+  position:relative;
+  font-size:18px;
+  left:7.5px;
+  top:-235px;  
+}
+.aaa
+{
+  position:relative;
+  left:65.5px;
+  top:-215px;
+  color:black;
+  font-size:16px;
+}
+.boten
+{
+  position:relative;
+  top:-264px;
+}
+.mdr
+{
+  position:relative;
+  top:-245px;
+  left:65px;
+  font-size:16px;
+  color:black;
+}
+.boan
+{
+  position:relative;
+  top:-285px;
+  
+}
+.Gui
+{
+  position:relative;
+  top:-275px;
+  left:65px;
+  font-size:16px;
+  color:black;
+}
+.boon
+{
+  position:relative;
+  top:-315px;
+  
+}
+
+.boun
+{
+  background-color:white;
+   position:relative;
+  left:400px;
+  top:-775px;
+  border-radius:5px;
+}
+.born
+{
+  position:relative;
+  top:-770px;
+  left:400px;
+}
+.boen
+{
+  
+  position:relative;
+  top:-770px;
+  left:570px;
+}
+.bozn
+{
+
+  position:relative;
+  top:-775px;
+  left:740px;
+}
+.nonb
+{
+  position:relative;
+  top:-125px;
+  left:5px;
+}
+.mess
+{
+  position:relative;
+  top:-305px;
+  left:65px;
+  color:black;
+}
+.bin
+{
+  position:relative;
+  top:-355px;
+  left:2.5px;
+}
+.search
+{
+  position:relative;
+  top:25px;
+  left:-240px;
+}
+.seach
+{
+  position:relative;
+  top:20px;
+  left:795px;
+  border-radius:19px;
+}
+.searcher
+{
+  position:relative;
+  top:22.5px;
+  left:780px;
+}
+.searc
+{
+  position:relative;
+  top:24.5px;
+  left:765px;
+}
+.sear
+{
+ position:relative;
+ top:22px;
+ left:740px;
+}
+/* droite */
+.droite
+{
+  width:300px;
+  height:600px;
+  position:relative ;
+  left:950px;
+  top:-770px;
+  background-color:#f0f2f5;
+  overflow-y:scroll;
+  overflow-x:hidden;
+  background-attachment: local;
+}
+.sponsorise
+{
+  color:gray;
+  font-size:20px;
+  font-weight:300;
+  position: relative;
+  left:10px;
+  top:-15px;
+}
+.spon
+{
+  position:relative;
+  left:10px;
+  top:-20px;
+}
+.sp
+{
+  color:black;
+  font-size:20px;
+  font-weight:200;
+  position: relative;
+  left:140px;
+  top:-110px;
+}
+.spo
+{
+
+  color:gray;
+  font-size:12px;
+  font-weight:200;
+  position: relative;
+  left:140px;
+  top:-130px;
+}
+.spons
+{
+  position:relative;
+  left:10px;
+  top:-90px;
+}
+.sponse
+{
+  color:gray;
+  font-size:15px;
+  font-weight:200;
+  position: relative;
+  left:140px;
+  top:-170px;
+} 
+.noob
+{
+  position:relative;
+  top:-125px;
+}
+.annif
+{
+  color:gray;
+  font-size:20px;
+  font-weight:300;
+  position: relative;
+  left:10px;
+  top:-180px;
+}
+.annie
+{
+  color:black;
+  font-size:17.5px;
+  font-weight:100;
+  position: relative;
+  left:70px;
+  top:-170px;
+}
+.annife
+{
+  position: relative;
+  left:20px;
+  top:-80px;
+}
+.toiny
+{
+  position:relative;
+  top:-165px;
+}
+.Contact
+{
+  color:gray;
+  font-size:20px;
+  font-weight:300;
+  position: relative;
+  left:10px;
+  top:-175px;
+}
+.publi
+{
+  background-color:white;
+  width:590px;
+  height:110px;
+  position:relative;
+  left:25px;
+  top:-15px;
+  border-radius:10px; 
+  
+}
+.pu
+{
+  position:relative;
+  left:20px;
+  top:15px;
+  border-radius:15px;
+}
+.que
+{
+  padding-left:12px;
+  padding-right:14px;
+  background-color:#f0f2f5;
+  border-radius:15px;
+  position:relative;
+  left:25px;
+  top:3px;
+  width:450px;
+  height:30px;
+  text-decoration: black;
+
+}
+.qued
+{
+  position:relative;
+  left:-2px;
+  top:5px;
+}
+.humeur
+{
+  position:relative;
+  left:375px;
+  top:-175px;
+}
+.hum
+{
+  position:relative;
+  left:425px;
+  top:-223px;
+}
+
+.Photo
+{
+  position:relative;
+  left:200px;
+  top:-90px;
+}
+.pho
+{
+  position:relative;
+  left:250px;
+  top: -135px;
+  font-size:16px;
+}
+.Cam
+{
+  position:relative;
+  left:15px;
+}
+.came
+{
+  position:relative;
+  left:70px;
+  top: -45px;
+  font-size:16px;
+}
+.salon
+{
+  background-color:white;
+  width:590px;
+  height:45px;
+  position:relative;
+  left:25px;
+  top:-5px;
+  border-radius:10px;
+  
+}
+.salone
+{
+
+  position:relative;
+  left:45px;
+  top:-40px;
+
+}
+.salonee
+{
+  color:black;
+  position:relative;
+  left:100px;
+  top:-85px;
+}
+.milieu
+{ 
+  width:600;
+  height:500px;
+  border:1px black;
+  background-color: #f0f2f5;
+  position:relative;
+  left:300px;
+  top:-1340px;
+}
+.partage
+{
+  background-color:white;
+  width:590px;
+  height:740px;
+  position:relative;
+  left:25px;
+  top:-65px;
+  border-radius:10px;
+}
+.car
+{
+  position:relative;
+  left:75px;
+  top:25px;
+  color:black;
+}
+.heure
+{
+  position:relative;
+  left:75px;
+  top:13px;
+  font-size:14px;
+  color:gray;
+}
+.globe
+{
+  position:relative;
+  left:70px;
+  top:-203px;
+}
+.profil
+{
+  position:relative;
+  left:23px;
+  top:-205px;
+  border-radius:15px;
+}
+.captiva
+{
+  position:relative;
+  left:23px;
+  top:-50px;
+  color:black;
+  font-size :15px;
+}
+.annéé
+{
+  position:relative;
+  left:23px;
+  top:-65px;
+  color:black;
+  font-size: 15px;
+}
+.diesel
+{
+  position:relative;
+  left:23px;
+  top:-77px;
+  color:black;
+  font-size :15px;
+}
+.phase4
+{
+  width:590px;
+  height:300px;
+  position:relative;
+  top:-380px;
+  left:1px;
+
+}
+.phase3
+{
+  position:relative;
+  top:126px;
+  left:2px;
+}
+.phase2
+{
+  position:relative;
+  top:327.6px;
+  left:-30px; 
+}
+.phase1
+{
+  position:relative;
+  top:327px;
+  left:355px; 
+}
+.like
+{
+  position:relative;
+  top:-160px;
+  left:10px; 
+}
+.nb
+{
+  position:relative;
+  top:-200px;
+  left:43px; 
+}
+.sep1
+{
+  position:relative;
+  top:-195px;
+  left:0px; 
+}
+.sep12
+{
+  position:relative;
+  top:-390px;
+  left:0px; 
+}
+.like2
+{
+  position:relative;
+  top:-193px;
+  left:43px; 
+}
+.Jaime
+{
+
+  position:relative;
+  top:-232px;
+  left:85px
+}
+.comment
+{
+  position:relative;
+  top:-270px;
+  left:203px; 
+}
+
+.Commenter
+{
+
+  position:relative;
+  top:-310px;
+  left:253px;
+}
+.share
+{
+  position:relative;
+  top:-348px;
+  left:380px; 
+}
+
+.Part
+{
+  position:relative;
+  top:-389px;
+  left:425px;
+}

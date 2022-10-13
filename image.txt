@@ -1,0 +1,19 @@
+<div class="rayan">
+                <img  src="Rayan.jpg"width="100px"height="100px">
+                    <figcaption class="ray ">Rayan</figcaption>
+            </div>  
+            <div class="fifa" >     
+                <img src="Fifaliana.jpg"width="100px"height="100px">    
+                    <figcaption class="fi ">Fifaliana</figcaption>
+            </div>
+            <div class="rija" >        
+                <img  src="Rija.jpg"width="100px"height="100px">       
+                    <figcaption class="ri">Rija</figcaption>
+            </div> 
+
+
+rgb(196, 207, 255)
+  
+<img src="icons8_notification.ico"width="40px"height="40px"class="bonn">
+
+<img src="icons8_user_groups.ico"width="40px"height="40px"class="botn">
